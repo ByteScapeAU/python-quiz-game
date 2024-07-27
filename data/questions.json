@@ -1,0 +1,428 @@
+[
+  {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Berlin", "Madrid"],
+      "correct": "Paris",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/640px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+  },
+  {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct": "Jupiter",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jupiter_and_its_shrunken_Great_Red_Spot.jpg/640px-Jupiter_and_its_shrunken_Great_Red_Spot.jpg"
+  },
+  {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Jane Austen", "Mark Twain", "J.K. Rowling"],
+      "correct": "Harper Lee",
+      "image": ""
+  },
+  {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Pb"],
+      "correct": "Au",
+      "image": ""
+  },
+  {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+      "correct": "Leonardo da Vinci",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/640px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+  },
+  {
+      "question": "What is the smallest country in the world?",
+      "options": ["Vatican City", "Monaco", "Nauru", "San Marino"],
+      "correct": "Vatican City",
+      "image": ""
+  },
+  {
+      "question": "What is the boiling point of water?",
+      "options": ["100°C", "90°C", "80°C", "70°C"],
+      "correct": "100°C",
+      "image": ""
+  },
+  {
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "correct": "Canberra",
+      "image": ""
+  },
+  {
+      "question": "What is the longest river in the world?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "correct": "Nile River",
+      "image": ""
+  },
+  {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Blue Whale", "Elephant", "Giraffe", "Hippopotamus"],
+      "correct": "Blue Whale",
+      "image": ""
+  },
+  {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "correct": "Albert Einstein",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/640px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+  },
+  {
+      "question": "What is the currency of Japan?",
+      "options": ["Yen", "Dollar", "Euro", "Won"],
+      "correct": "Yen",
+      "image": ""
+  },
+  {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "correct": "Mars",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/OSIRIS_Mars_true_color.jpg/640px-OSIRIS_Mars_true_color.jpg"
+  },
+  {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "correct": "Mount Everest",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Everest_kalapatthar.jpg/640px-Everest_kalapatthar.jpg"
+  },
+  {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "George Orwell", "Jane Austen"],
+      "correct": "William Shakespeare",
+      "image": ""
+  },
+  {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Diamond", "Gold", "Iron", "Quartz"],
+      "correct": "Diamond",
+      "image": ""
+  },
+  {
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Avocado", "Tomato", "Onion", "Pepper"],
+      "correct": "Avocado",
+      "image": ""
+  },
+  {
+      "question": "Who was the first President of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+      "correct": "George Washington",
+      "image": ""
+  },
+  {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "correct": "Pacific Ocean",
+      "image": ""
+  },
+  {
+      "question": "What is the square root of 64?",
+      "options": ["8", "6", "7", "9"],
+      "correct": "8",
+      "image": ""
+  },
+  {
+      "question": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Joseph Lister"],
+      "correct": "Alexander Fleming",
+      "image": ""
+  },
+  {
+      "question": "What is the most widely spoken language in the world?",
+      "options": ["Mandarin Chinese", "English", "Spanish", "Hindi"],
+      "correct": "Mandarin Chinese",
+      "image": ""
+  },
+  {
+      "question": "What is the chemical formula for water?",
+      "options": ["H2O", "CO2", "O2", "H2SO4"],
+      "correct": "H2O",
+      "image": ""
+  },
+  {
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+      "correct": "Alexander Graham Bell",
+      "image": ""
+  },
+  {
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+      "correct": "Antarctic Desert",
+      "image": ""
+  },
+  {
+      "question": "Who was the first man to walk on the moon?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+      "correct": "Neil Armstrong",
+      "image": ""
+  },
+  {
+      "question": "What is the smallest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Pluto"],
+      "correct": "Mercury",
+      "image": ""
+  },
+  {
+      "question": "Who painted the ceiling of the Sistine Chapel?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+      "correct": "Michelangelo",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/God2-Sistine_Chapel.png/640px-God2-Sistine_Chapel.png"
+  },
+  {
+      "question": "What is the fastest land animal?",
+      "options": ["Cheetah", "Lion", "Tiger", "Leopard"],
+      "correct": "Cheetah",
+      "image": ""
+  },
+  {
+      "question": "What is the most abundant gas in Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+      "correct": "Nitrogen",
+      "image": ""
+  },
+  {
+      "question": "What is the capital of Canada?",
+      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+      "correct": "Ottawa",
+      "image": ""
+  },
+  {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": ["Jane Austen", "Emily Bronte", "Charles Dickens", "George Orwell"],
+      "correct": "Jane Austen",
+      "image": ""
+  },
+  {
+      "question": "What is the largest bone in the human body?",
+      "options": ["Femur", "Humerus", "Tibia", "Fibula"],
+      "correct": "Femur",
+      "image": ""
+  },
+  {
+      "question": "What is the hardest rock?",
+      "options": ["Diamond", "Granite", "Quartz", "Basalt"],
+      "correct": "Diamond",
+      "image": ""
+  },
+  {
+      "question": "What is the name of the longest river in South America?",
+      "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+      "correct": "Amazon River",
+      "image": ""
+  },
+  {
+      "question": "Who invented the light bulb?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "George Westinghouse"],
+      "correct": "Thomas Edison",
+      "image": ""
+  },
+  {
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+      "correct": "Berlin",
+      "image": ""
+  },
+  {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Skin", "Liver", "Heart", "Lungs"],
+      "correct": "Skin",
+      "image": ""
+  },
+  {
+      "question": "Who wrote 'Moby Dick'?",
+      "options": ["Herman Melville", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+      "correct": "Herman Melville",
+      "image": ""
+  },
+  {
+      "question": "What is the most populous country in the world?",
+      "options": ["China", "India", "United States", "Indonesia"],
+      "correct": "China",
+      "image": ""
+  },
+  {
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["Pound Sterling", "Euro", "Dollar", "Yen"],
+      "correct": "Pound Sterling",
+      "image": ""
+  },
+  {
+      "question": "What is the name of the longest river in Africa?",
+      "options": ["Nile River", "Congo River", "Niger River", "Zambezi River"],
+      "correct": "Nile River",
+      "image": ""
+  },
+  {
+      "question": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+      "correct": "George Orwell",
+      "image": ""
+  },
+  {
+      "question": "What is the capital of Italy?",
+      "options": ["Rome", "Milan", "Venice", "Florence"],
+      "correct": "Rome",
+      "image": ""
+  },
+  {
+      "question": "What is the main gas found in the air we breathe?",
+      "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Helium"],
+      "correct": "Nitrogen",
+      "image": ""
+  },
+  {
+      "question": "Who wrote 'The Great Gatsby'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "William Faulkner", "John Steinbeck"],
+      "correct": "F. Scott Fitzgerald",
+      "image": ""
+  },
+  {
+      "question": "What is the name of the longest river in North America?",
+      "options": ["Mississippi River", "Amazon River", "Yangtze River", "Nile River"],
+      "correct": "Mississippi River",
+      "image": ""
+  },
+  {
+      "question": "Who wrote 'The Catcher in the Rye'?",
+      "options": ["J.D. Salinger", "Ernest Hemingway", "Mark Twain", "F. Scott Fitzgerald"],
+      "correct": "J.D. Salinger",
+      "image": ""
+  },
+  {
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1945", "1947", "1950"],
+      "correct": "1945",
+      "image": ""
+  },
+  {
+      "question": "Which country is home to the kangaroo?",
+      "options": ["New Zealand", "South Africa", "Australia", "Brazil"],
+      "correct": "Australia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Kangaroo_Australia_01_12_2008_-_retouch.jpg/640px-Kangaroo_Australia_01_12_2008_-_retouch.jpg"
+  },
+  {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Gold", "Oxygen", "Osmium", "Oganesson"],
+      "correct": "Oxygen",
+      "image": ""
+  },
+  {
+      "question": "What is the largest bird in the world?",
+      "options": ["Ostrich", "Emu", "Albatross", "Condor"],
+      "correct": "Ostrich",
+      "image": ""
+  },
+  {
+      "question": "Which country is home to the Great Barrier Reef?",
+      "options": ["Brazil", "Australia", "Thailand", "Mexico"],
+      "correct": "Australia",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Great_Barrier_Reef_Biodiversity.jpg/640px-Great_Barrier_Reef_Biodiversity.jpg"
+  },
+  {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "South Korea", "Japan", "Thailand"],
+      "correct": "Japan",
+      "image": ""
+  },
+  {
+      "question": "Which of these is not a primary color?",
+      "options": ["Red", "Blue", "Yellow", "Green"],
+      "correct": "Green",
+      "image": ""
+  },
+  {
+      "question": "Who painted 'The Starry Night'?",
+      "options": ["Pablo Picasso", "Claude Monet", "Vincent van Gogh", "Leonardo da Vinci"],
+      "correct": "Vincent van Gogh",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/640px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+  },
+  {
+      "question": "Which planet is known as the 'Morning Star'?",
+      "options": ["Mars", "Venus", "Mercury", "Jupiter"],
+      "correct": "Venus",
+      "image": ""
+  },
+  {
+      "question": "What is the largest country in the world by land area?",
+      "options": ["China", "United States", "Canada", "Russia"],
+      "correct": "Russia",
+      "image": ""
+  },
+  {
+      "question": "Who composed the Four Seasons?",
+      "options": ["Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Antonio Vivaldi"],
+      "correct": "Antonio Vivaldi",
+      "image": ""
+  },
+  {
+      "question": "What is the capital of Brazil?",
+      "options": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+      "correct": "Brasília",
+      "image": ""
+  },
+  {
+      "question": "What is the largest living species of lizard?",
+      "options": ["Komodo dragon", "Saltwater crocodile", "Black mamba", "African elephant"],
+      "correct": "Komodo dragon",
+      "image": "https://example.com/komodo_dragon.jpg"
+  },
+  {
+      "question": "Who was the lead singer of the rock band Queen?",
+      "options": ["Freddie Mercury", "Brian May", "Roger Taylor", "John Deacon"],
+      "correct": "Freddie Mercury",
+      "image": ""
+  },
+  {
+      "question": "Who is credited with inventing the World Wide Web?",
+      "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Mark Zuckerberg"],
+      "correct": "Tim Berners-Lee",
+      "image": ""
+  },
+  {
+      "question": "Which planet is known as the 'Blue Planet'?",
+      "options": ["Mars", "Neptune", "Earth", "Uranus"],
+      "correct": "Earth",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/The_Earth_seen_from_Apollo_17.jpg/640px-The_Earth_seen_from_Apollo_17.jpg"
+  },
+  {
+      "question": "Which mountain is the tallest in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+      "correct": "Mount Everest",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Everest_kalapatthar.jpg/640px-Everest_kalapatthar.jpg"
+  },
+  {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": ["Mother Teresa", "Marie Curie", "Jane Addams", "Bertha von Suttner"],
+      "correct": "Marie Curie",
+      "image": ""
+  },
+  {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correct": "2",
+      "image": ""
+  },
+  {
+      "question": "Which of these is not one of the Seven Wonders of the Ancient World?",
+      "options": ["Great Pyramid of Giza", "Hanging Gardens of Babylon", "Colosseum", "Statue of Zeus at Olympia"],
+      "correct": "Colosseum",
+      "image": ""
+  },
+  {
+      "question": "What is the largest country in the world by land area?",
+      "options": ["China", "United States", "Canada", "Russia"],
+      "correct": "Russia",
+      "image": ""
+  },
+  {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["J.D. Salinger", "Harper Lee", "F. Scott Fitzgerald", "Ernest Hemingway"],
+      "correct": "Harper Lee",
+      "image": ""
+  },
+  {
+      "question": "Which country is home to the Taj Mahal?",
+      "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+      "correct": "India",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Taj_Mahal%2C_Agra%2C_India_edit3.jpg/640px-Taj_Mahal%2C_Agra%2C_India_edit3.jpg"
+  }
+]
